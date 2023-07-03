@@ -1,0 +1,26 @@
+body {
+    background-color: midnightblue;
+    color: yellow;
+}
+
+a:hover{
+    color: yellow;
+}
+
+footer {
+    display:block;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: attr(width) / attr(height);
+  }
